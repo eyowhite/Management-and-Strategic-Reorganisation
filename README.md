@@ -1,5 +1,5 @@
 # Customer and Location Analysis 
-## Table of Content
+## Table of Contents
 - [Project Description](#project-description)
 - [Project Objectives](#project-objectives)
 - [Key Deliverables](#key-deliverables)
