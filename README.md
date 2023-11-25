@@ -7,6 +7,7 @@
 - [Project Methodology](#project-methodology)
 - [Project Tools](#project-tools)
 - [Project Budget](#project-budget)
+- [Project Epics and Requirements Mapping](#projectepics-and-requirements-mapping)
 - [Project Timeline](#project-timeline)
 - [Project Analysis Dashboards](#project-analysis-dashboards)
 - [Project Outcomes](#project-outcomes)
@@ -67,6 +68,9 @@ Our client is in the business of wholesale and retail. With a vast customer base
 4. Miscellaneous Costs:
   -  Other project-related expenses.
   -  Funds allocated to manage identified risks and uncertainties.
+
+### Project Epics and Requirements Mapping
+
 
 ### Project Timeline
 
