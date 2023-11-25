@@ -80,6 +80,14 @@ Our client is in the business of wholesale and retail. With a vast customer base
 
 <img width="544" alt="3-year forecast" src="https://github.com/eyowhite/Management-and-Strategic-Reorganisation/assets/151957176/2872216f-6bae-4c12-ab8e-d805b39fe0ef">
 
+![Average amount of Customer orders](https://github.com/eyowhite/Management-and-Strategic-Reorganisation/assets/151957176/53578d29-c97e-43d4-bb6c-3e80eba27a56)
+
+![Total Spent](https://github.com/eyowhite/Management-and-Strategic-Reorganisation/assets/151957176/ad495e53-c8c1-45f8-bfcc-b1dd52ee1892)
+
+![Number of customer Orders](https://github.com/eyowhite/Management-and-Strategic-Reorganisation/assets/151957176/06b3f231-6c17-4f90-92bf-7f1df1ef10d4)
+
+
+
 ### Project Outcomes
 Successfully reorganised business operations leading to a 15% increase in efficiency, completion of the project 2 days ahead of schedule, and under budget. 
 
