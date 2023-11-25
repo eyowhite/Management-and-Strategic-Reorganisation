@@ -71,6 +71,8 @@ Our client is in the business of wholesale and retail. With a vast customer base
 
 ### Project Epics and Requirements Mapping
 
+<img width="620" alt="Story Map" src="https://github.com/eyowhite/Management-and-Strategic-Reorganisation/assets/151957176/832a658e-60de-43fc-8f1f-1b5fef6e9088">
+
 
 ### Project Timeline
 
