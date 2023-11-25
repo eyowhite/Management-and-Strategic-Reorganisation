@@ -51,7 +51,7 @@ Our client is in the business of wholesale and retail. With a vast customer base
     Predict 3-year revenue for the top 5 provinces using historical trends.
 
 ### Project Tools
-1. Dataset: Client's database.
+1. Dataset: WWI.
 2. Data Extraction and Analysis: Structured Queried Language (SQL) and Python-aided machine learning
 3. Data Visualisation: Excel and Power BI
 4. Project Management: Agile framework (Scrum)- Jira and Confluence
