@@ -14,7 +14,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Description
-Our client is in the business of wholesale and retail. With a vast customer base and numerous outlets services in various provinces, it seeks to optimise its operations by focusing on regions that contribute significantly to its revenue and sales volume. Hence, the project arises from the need to strategically allocate resources and prioritise provinces to maximise profitability.
+Our [client](https://eyowhite.com/projects/) is in the business of wholesale and retail. With a vast customer base and numerous outlets services in various provinces, it seeks to optimise its operations by focusing on regions that contribute significantly to its revenue and sales volume. Hence, the project arises from the need to strategically allocate resources and prioritise provinces to maximise profitability.
 
 ### Project Objectives
 - To identify the 5 top provinces based on transaction volume, revenue and sales volume.
